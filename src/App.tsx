@@ -296,7 +296,7 @@ const Footer = () => {
     <footer className="border-t border-white/5 py-12 px-6">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
         <div className="flex items-center gap-2">
-          <Briefcase className="w-5 h-5 text-primary" />
+          <img src="/image.png" alt="HireFlow AI Logo" className="w-5 h-5 object-contain rounded-sm" />
           <span className="font-semibold">HireFlow AI</span>
         </div>
         <div className="text-foreground/40 text-sm text-center md:text-left">
